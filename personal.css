@@ -116,10 +116,11 @@ h2 {
 
 #links a {
 	margin: 0 8px 0 0;
+	opacity: .8;
 	}
 	
 #links a:hover {
-	opacity: .6;
+	opacity: .5;
 	transition: opacity .3s ease;
 	-webkit-transition: opacity .3s ease;
 	-moz-transition: opacity .3s ease;
