@@ -109,11 +109,6 @@ h2 {
 	font-size: 400%;
 	}
 	
-#links img {
-	width: 45px;
-	height: auto;	
-	}
-
 #links a {
 	margin: 0 8px 0 0;
 	opacity: .8;
@@ -128,7 +123,14 @@ h2 {
 	-o-transition: opacity .3s ease;
 	}
 	
-/*	EINSTEIN-UNTERSCHRIFT */
+    .fa-stack-1x { 
+        top: .25em; 
+    } 
+    .fa-stack {
+        font-size: 45%;
+    }
+
+/*	Logo-UNTERSCHRIFT */
 	
 #logo {
 	width: 95%;
@@ -162,7 +164,3 @@ h2 {
 
 	}
 	
-/*	DAS LOGO (EINSTEINS UNTERSCHRIFT) WIRD 
-	NICHT FIXIERT, SONDERN ANS ENDE DER 
-	SEITE GESTELLT. ALTERNATIV K֎NTE MAN 
-	ES MIT DIPLAY:NONE AUCH AUSBLENDEN. */
