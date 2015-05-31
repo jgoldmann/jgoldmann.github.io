@@ -128,6 +128,7 @@ h2 {
     } 
     .fa-stack {
         font-size: 45%;
+        height: 2.5em !important;
     }
 
 /*	Logo-UNTERSCHRIFT */
