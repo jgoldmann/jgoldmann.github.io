@@ -34,7 +34,7 @@ footer, header, hgroup, menu, nav, section {
 	
 body {
 	background-color: #111;
-	background-image: url("garten.jpg");
+	background-image: url("../garten.jpg");
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: center center;
